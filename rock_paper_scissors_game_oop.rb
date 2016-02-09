@@ -1,4 +1,4 @@
-# homework1_v3 (OOP)
+# homework2 (OOP)
 # Rock-paper-scissors game
 class Player  
   attr_accessor :name 
